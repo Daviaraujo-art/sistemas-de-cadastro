@@ -1,8 +1,8 @@
-<h1>Sistema de cadastro de jogos</h1>
+<h1>Game registration system</h1>
 
-> Status do projeto: Em desenvolvimento
+> Project status: In development
 
-Para obter melhor desempenho na sua máquina, por favor realize:
+For best performance on your machine, please perform:
 
 ```
 Install correctly the drive pc
