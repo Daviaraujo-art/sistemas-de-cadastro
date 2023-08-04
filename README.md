@@ -5,5 +5,5 @@
 Para obter melhor desempenho na sua máquina, por favor realize:
 
 ```
-Install corretly the drive pc
+Install correctly the drive pc
 ```
