@@ -5,5 +5,5 @@
 For best performance on your machine, please perform:
 
 ```
-Install correctly the drive pc
+Install correctly node app.js to run this file
 ```
