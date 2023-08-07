@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>¡Hola, mundo!</title>
+    <title>Hello, world!</title>
 </head>
 <body>
     <?php
     // Código PHP
-    echo "Olá, mundo!";
+    echo "Hello, world!";
     ?>
 </body>
 </html>
